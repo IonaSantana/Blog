@@ -1,6 +1,6 @@
 # Blog
-Criação de um blog genérico
-1- Primeira semana
-    Create posts
-    Update posts
-    Delete posts
+Criação de um blog genérico </br>
+1- Primeira semana </br>
+    Create posts </br>
+    Update posts </br>
+    Delete posts </br>
